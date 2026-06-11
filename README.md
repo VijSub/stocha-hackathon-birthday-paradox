@@ -2,6 +2,15 @@
 
 Ein interaktives Python/Streamlit-Projekt für den StochaHackathon.
 
+## GitHub Repository
+
+Der Quellcode ist öffentlich auf GitHub verfügbar:
+
+```text
+https://github.com/VijSub/stocha-hackathon-birthday-paradox
+```
+
+
 ## Idee
 
 Das Programm visualisiert das Geburtstagsparadoxon: Ab wie vielen Personen ist es wahrscheinlich, dass mindestens zwei Personen denselben Geburtstag haben?
